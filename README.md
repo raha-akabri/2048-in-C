@@ -22,7 +22,7 @@ The game ends when there are no possible moves remaining , and
 Press E to exit the game
 
 
-How to run:
+##How to run:
 The game is written in C and currently uses conio.h for keyboard input, so it is intended to
 run on Windows with a compatible C compiler.
 Download or clone the repository,
